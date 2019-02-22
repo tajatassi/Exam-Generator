@@ -1,0 +1,20 @@
+Taj
+shuffled.txt
+2018/04/11 15:18:33
+
+SAAnswer
+information hiding
+
+
+MCSAAnswer
+0.5 Peanut butter
+
+MCMAAnswer
+2
+0.2 Tom Riddle
+0.2 Rubeus Hagrid
+
+NumAnswer
+42.0
+
+
